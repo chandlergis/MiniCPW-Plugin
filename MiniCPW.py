@@ -88,3 +88,4 @@ class ImageAnalysis(Plugin):
 
 if __name__ == "__main__":
     image_analysis_plugin = ImageAnalysis()
+    result = image_analysis_plugin.ImageAnalysis()
