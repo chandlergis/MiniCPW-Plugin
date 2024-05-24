@@ -1,1 +1,1 @@
-from .MiniCPW-Plugin import *
+from .MiniCPW import *
